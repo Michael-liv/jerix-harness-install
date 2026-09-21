@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict><key>items</key><array><dict>
+<key>assets</key><array><dict><key>kind</key><string>software-package</string><key>url</key><string>https://api.codemagic.io/artifacts/.eJwVwcuWQzAAANB_6d45JBSLWYQ-ImQQQtnMUW21mDDFeHz9nLl3V6F_1s8QmDoQWItI5Z3aOWj3G1Y8QRDBBn6VhQRyH8bZSorRFc-08vqyd0J6m-MWVBIOT71kpOc7UiwrFrGQ72J6ogjoXKUK0NvC9sGcDGaXO1NgWmpxkQ-Tj8Yc0crGRQQ9e2oYfOsXOrpY5U3w2L-zIX_ZV9g5ZxRP103pnkzcetaxAyqXa6VQGOGg5CTdfMKylVvaTRWkQEDpypB9z331HsTRl8PEzBwG3KbueOwN3oOvqfvpGJjLSm6VxKG_9Qbrtf7yEyHnWzkGi2s6DeTSY41O9SZr0Sixu1rMiTZQY1iOH7s_fMlm4w.zGT1N3S8bSwX6VRhYCyDRG_80cs</string></dict></array>
+<key>metadata</key><dict><key>bundle-identifier</key><string>com.jerix.sdaVerifyFlutterExample</string><key>bundle-version</key><string>1.0.0</string><key>kind</key><string>software</string><key>title</key><string>Jerix Verify (build 28)</string></dict>
+</dict></array></dict></plist>
